@@ -1,5 +1,7 @@
 # SupplyChain-Network-Optimization-2.0
 
+## -> Project of supply chain's optimization <-
+
 Supply Chain project is structured in 5 phases:
 
 - Identification of AS-IS company's Supply Chain Management
